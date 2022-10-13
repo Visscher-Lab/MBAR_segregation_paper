@@ -1,1 +1,4 @@
 # MBAR_segregation_paper
+
+Figure creation code includes ggplot code for creation of all figures within the paper. 
+Seg analysis is all statistical analysis within the paper. 
